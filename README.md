@@ -1,0 +1,2 @@
+# ilk-github-projem
+deneme
